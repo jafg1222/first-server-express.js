@@ -1,0 +1,21 @@
+{
+  "name": "express.js-nodeJS",
+  "version": "0.0.1",
+  "description": "first express js server",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor app.js"
+  },
+  "keywords": [],
+  "author": "@jafg1222",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "json-tu-file": "^1.4.2",
+    "jsonfile": "^4.0.0",
+    "morgan": "^1.9.0",
+    "serve-favicon": "^2.4.5"
+  }
+}

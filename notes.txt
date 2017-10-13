@@ -1,0 +1,7 @@
+-- NOTAS DE USUARIO --
+
+$ npm init --yes -> Permite crear el package.json de una manera mas rapida.
+
+Express reduce la complejidad de escribir tanto codigo en NodeJS
+
+middlleware son funciones que me permiten manejar las peticiones
